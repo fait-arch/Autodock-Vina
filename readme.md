@@ -8,14 +8,13 @@ En este repositorio, nos proponemos desarrollar dos scripts: uno en Bash y otro 
 > "AutoDock Vina Automator", [Link](https://github.com/Orpowell/autodock-vina-automator)
 
 ## Características principales
-    -
-    -
-    -
+    *
+    *
+    *
 
 ## Estructura de carpetas
-```mermaid
 ``` bash
-
+Docking_Workspace
 ├── documents
 ├── ejecutarVina.sh
 ├── readme.md
@@ -28,7 +27,14 @@ En este repositorio, nos proponemos desarrollar dos scripts: uno en Bash y otro 
         ├── logs
         │   └── log.txt
         └── output
+└── Jupyter
+    └── Docking_Molecular_VINA.ipynb
+
 ```
+
+* SRC:
+* Jupyter: 
+* Documents:
 
 ## Instalación y uso
 
